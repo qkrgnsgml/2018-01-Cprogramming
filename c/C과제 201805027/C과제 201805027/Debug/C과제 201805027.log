@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\박훈희\source\repos\c과제 201805027\c과제 201805027\소스.c(22): warning C4716: 'hqp': 값을 반환해야 합니다.
+c:\users\박훈희\source\repos\c과제 201805027\c과제 201805027\소스.c(28): warning C4716: 'cha': 값을 반환해야 합니다.
+c:\users\박훈희\source\repos\c과제 201805027\c과제 201805027\소스.c(34): warning C4716: 'gob': 값을 반환해야 합니다.
+c:\users\박훈희\source\repos\c과제 201805027\c과제 201805027\소스.c(40): warning C4716: 'bun': 값을 반환해야 합니다.
+  C과제 201805027.vcxproj -> c:\users\박훈희\source\repos\C과제 201805027\Debug\C과제 201805027.exe
